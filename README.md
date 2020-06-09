@@ -33,7 +33,8 @@ Obrigado pela visita e bora CODAR!
 
 Trabalho feito com amor :purple_heart: por um humilde desenvolvedor brasileiro. :shipit:
 
-Copyright (c) 2020 Matheus Sartor
+Copyright (c) 2020 Matheus Sartor 
+sobre [Licença MIT](/LICENSE)
 
 
 
